@@ -1,0 +1,5 @@
+<launch>
+    <node pkg="parking" type="node_auto_parking.py" name="automatic_parking" output="screen" />
+    <node pkg="parking" type="node_RGBD_cam.py" name="rgbd_cam" output="screen" />
+    <!-- output="screen" 옵션을 넣어주면 그 해당 노드에서는 터미널에서 출력이 된다 -->
+</launch>

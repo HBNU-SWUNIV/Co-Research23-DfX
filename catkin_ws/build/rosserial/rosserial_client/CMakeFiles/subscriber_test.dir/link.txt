@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/subscriber_test.dir/test/subscriber_test.cpp.o  -o /home/jet/catkin_ws/devel/lib/rosserial_client/subscriber_test  -L/home/jet/catkin_ws/build/gtest -Wl,-rpath,/home/jet/catkin_ws/build/gtest:/home/jet/catkin_ws/build/gtest/googlemock/gtest ../../gtest/googlemock/gtest/libgtest.so -lpthread 

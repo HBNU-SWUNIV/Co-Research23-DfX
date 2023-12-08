@@ -1,0 +1,4 @@
+<launch>
+  <node pkg="parking" type="straight_parking.py" name="parking_sequence" output="screen"/>
+  <node pkg="parking" type="imu.py" name="get_imu_data" output="screen"/>
+</launch>

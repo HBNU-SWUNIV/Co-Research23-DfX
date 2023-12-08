@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>ros_tutorials_topic</name>
+  <version>0.1.0</version>
+  <description>ROS turtorial package to learn the topic</description>
+  <license>Apache 2.0</license>
+  <author email="pyo@robotis.com">Yoonseok Pyo</author>
+  <maintainer email="pyo@robotis.com">Yoonseok Pyo</maintainer>
+  <url type="website">http://www.robotis.com</url>
+  <url type="repository">https://github.com/ROBOTIS-GIT/ros_tutorials.git</url>
+  <url type="bugtracker">https://github.com/ROBOTIS-GIT/ros_tutorials/issues</url >
+ 
+  <!-- build depend는 build 할 때 의존성-->
+  <!-- build 할 때 무엇으로 할 것인지-->
+  <buildtool_depend>catkin</buildtool_depend>
+  <!-- python 언어를 사용-->
+  <build_depend>rospy</build_depend>
+  <!-- 기본 자료형 사용-->
+  <build_depend>std_msgs</build_depend>
+  <!-- 임의로 메시지를 생성-->
+  <build_depend>message_generation</build_depend>
+
+  <!-- run depend는 run 할 때 의존성-->
+  <exec_depend>rospy</exec_depend>
+  <exec_depend>std_msgs</exec_depend>
+  <exec_depend>message_runtime</exec_depend>
+
+  <export></export >
+</package>
