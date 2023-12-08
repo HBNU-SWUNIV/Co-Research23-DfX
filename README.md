@@ -64,7 +64,8 @@
 - 모바일 로봇 덮개부(3D/ 2D)
 
   <img width="409" alt="Car_top_3D" src="https://github.com/HBNU-SWUNIV/Co-Research23-DfX/assets/51081763/ebf42eb5-1129-40e4-893e-ca4169a29527">
-  <img width="409" img height="262" alt="Car_plate_2D" src="https://github.com/HBNU-SWUNIV/Co-Research23-DfX/assets/51081763/39302122-31d7-47d9-9948-db3034725817">
+  <img width="409" img height="262" src="https://github.com/HBNU-SWUNIV/Co-Research23-DfX/assets/51081763/dc09a1a7-1ddf-4d54-8701-ae82976f933d">
+
 
 - 모바일 로봇(알고리즘 테스트용 / 프로토 타입)
 
